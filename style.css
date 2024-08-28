@@ -1,0 +1,54 @@
+.kk{
+    position: relative;
+    left: 580px;
+    top: 280px;
+}
+.hh{
+    border: 1px black solid;
+    height: 100px;
+    width: 100px;
+}
+.cnt1{
+    border: 1px black solid;
+    height: 200px;
+    width: 1000px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.cnt2{
+    border: 1px black solid;
+    height: 100px;
+    width: 200px;
+}
+.cnt3{
+    border: 1px black solid;
+    height: 100px;
+    width: 200px;
+}
+.ññ{
+    display: flex;
+    position: relative;
+    top: 40px;
+    left: 350px;
+}
+.formulario{
+    position:relative;
+    top: 400px;
+}
+
+.titulo1{
+    border: 1px black solid;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    left: 400px;
+}
+.po{
+    position: relative;
+    text-align: center;
+}
+.formulario1{
+    position: relative;
+    top: 20px;
+}
